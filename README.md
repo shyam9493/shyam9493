@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Shyam Nandapuneedi</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ajaychanumolu&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychanumolu" />
+</p>
+
 - 🌱 I’m currently learning **MERN ,LLMs**
 
 - 👯 I’m looking to collaborate on **Web development Projects**
