@@ -22,5 +22,5 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaychanumolu&label=Profile%20views&color=0e75b6&style=flat" alt="ajaychanumolu" />
+  <img src="https://komarev.com/ghpvc/?username=shyam9493&label=Profile%20views&color=0e75b6&style=flat" alt="shyam" />
 </p>
